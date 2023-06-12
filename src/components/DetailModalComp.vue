@@ -129,7 +129,7 @@ svg:hover{
 #save-buttons{
     position: absolute;
     bottom: -48px;
-    right: 0;
+    right: -50px;
     display: flex;
     gap: 10px;
     margin-left: auto;
