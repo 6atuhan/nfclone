@@ -21,9 +21,9 @@ return url+"."+extension
 
 
 var header = "Marvel Comics"
-var title=store.state.comics[4].title
-var description=store.state.comics[4].description
-var imageurl=concatSrcUrl(store.state.comics[4].thumbnail.path,store.state.comics[4].thumbnail.extension)
+var title=store.state.comics[3].title
+var description=store.state.comics[3].description
+var imageurl=concatSrcUrl(store.state.comics[3].thumbnail.path,store.state.comics[3].thumbnail.extension)
 const comics = store.state.comics
 
 const ids =store.state.comics.map(item => item.id);
