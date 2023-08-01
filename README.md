@@ -21,7 +21,7 @@
 
 
 ### 📔 **About**
-Netflix Clone, the first page is a template, the second page is fill with MarvelComicsAPI.
+Netflix Clone, the first page is a template, the second page is filled with MarvelComicsAPI.
 
 
 ### 📜 **Features**
